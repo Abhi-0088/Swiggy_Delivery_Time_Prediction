@@ -87,3 +87,4 @@ myenv/
 
 # Mypy cache
 .mypy_cache/
+/run_information.json
